@@ -1,0 +1,6 @@
+{
+  "name": "NetLab Studio",
+  "description": "Educational Network Visualization and Automated Virtual Lab Platform with real-time packet simulation, sliding window protocol visualizer, routing algorithms, and Mininet script generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
